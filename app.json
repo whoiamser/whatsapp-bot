@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "WIA-BOT",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -7,16 +7,16 @@
     ],
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+        "WIA_CODE": {
+            "description": "SCAN QR CODE AND GET A CODE! ENTER THE CODE HERE.",
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxx (IN)",
             "required": false
         },
         "HANDLERS": {
-            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
+            "description": "FOR BOT HANDLING",
             "required": true,
             "value": "."
         },
@@ -31,7 +31,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Enter Heroku API Key.",
+            "description": "Enter Heroku API Key. You can get the api key from account setting>>scroll down>>reveal api key...",
             "required": true
         },
         "HEROKU_APP_NAME": {
@@ -61,7 +61,7 @@
         "WARN_MSG": {
             "description": "Message send while kicking.",
             "required": false,
-            "value": "OK bie"
+            "value": "OK BEY BRUH"
         },
         "REMOVEBG_KEY": {
             "description": "key from remove.bg",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "WIABOT,WHOIAM"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
