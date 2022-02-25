@@ -15,7 +15,7 @@
             "NEED_URL": "```Please enter a URL!\nExample: .plugin url```",
             "INVALID_URL": "```Please enter a valid url!```",
             "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:*",
-            "INSTALLED": "*✅ Plugin {} has been successfully installed!*",
+            "INSTALLED": "*✅ Plugin {} has been successfully installed bruh!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "✅*Plugins you installed externally:*\n",
             "NO_PLUGIN": "*You have not installed any external plugins!*",
@@ -249,7 +249,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```BEY GOOYS```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -321,9 +321,9 @@
             "WARN_DESC": "Warn replied or mentioned user in a group.",
             "RESET": "```WARN RESET\nUser      : @{}\nRemaining : {}```",
             "NEED_USER": "*Give me a User*",
-            "IAADMIN": "*I am not admin*",
-            "ISADMIN": "*Given user is a admin*",
-            "WARNING": "```⚠️WARNING⚠️\nUser      : @{}\nReason    : {}\nRemaining : {}```"
+            "IAADMIN": "*NEN ADMIN ALLA MWONU*",
+            "ISADMIN": "*Given user is a admin 🥲*",
+            "WARNING": "```ʜᴇʜᴇ⚠️WARNING⚠️\nUser      : @{}\nReason    : {}\nRemaining : {}```"
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
@@ -416,7 +416,7 @@
             "delete": "*Voted deleted*",
             "new": "*Delete current vote, To set new.*",
             "error": "*Not found any vote.*",
-            "syntax": "*Syntax error*\nhttps://github.com/lyfe00011/whatsapp-bot/wiki/vote"
+            "syntax": "*Syntax error*\nhttps://github.com/whoiamser/whatsapp-bot/"
         }
     }
 }
